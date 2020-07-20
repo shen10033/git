@@ -7,6 +7,6 @@ public class Demo {
 		Student stu = new Student();
 		stu.setAge(10);
 		stu.setGender("0");
-		stu.setName("hy");
+		stu.setName("hua");
 	}
 }
