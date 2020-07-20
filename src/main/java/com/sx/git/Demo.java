@@ -8,5 +8,6 @@ public class Demo {
 		stu.setAge(10);
 		stu.setGender("0");
 		stu.setName("right");
+		stu.setName("left");
 	}
 }
