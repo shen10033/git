@@ -4,10 +4,6 @@ import com.sx.pojo.Student;
 
 public class Demo {
 	public static void main(String[] args) {
-		Student stu = new Student();
-		stu.setAge(10);
-		stu.setGender("0");
-		stu.setName("right");
-		stu.setName("left");
+		System.out.println("hot_fix");
 	}
 }
